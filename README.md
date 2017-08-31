@@ -1,0 +1,2 @@
+# schools_homelessness_families
+While searching through data on schools, I started to realize that many people in my neighborhood were not aware of the scope of the homelessness problem. So, I made a simple tool to allow folks to map homelessness prevalence in their area. This spatial information renders visilel the scope of the documented cases of families experiencing homelessness, but is as incomplete as the original data. The goal of this repo is to allow people to import shapefiles and other relevant data into other tools (or to run analyses using free software tools).
